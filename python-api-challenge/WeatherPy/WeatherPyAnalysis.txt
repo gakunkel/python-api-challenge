@@ -1,0 +1,8 @@
+WeatherPy Trend Analysis:
+--------------------------
+
+Max temperature tends to increase as latitude approaches zero (the Equator) from either direction, but latitudes south of the Equator are warmer on average.
+
+There is little to no correlation between latitude and wind speed in either hemisphere (Northern or Southern)
+
+Humidity tends to increase as latitude becomes more positive (+)
